@@ -34,4 +34,4 @@
 ## 版权说明
 Copyright (c) 2023 魂魇桀(hunyanjie) All rights reserved
 
-[LICENSE.txt](LICENSE.txt)
+[LICENSE](LICENSE)
